@@ -21,12 +21,12 @@ You might find it useful to learn little more about Jupyter notebook:
 
 | Lecture Topic | Interactive Link | 
 |---|---|
-| **Running Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/introduction_python.ipynb) |
-| **Data Types**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_basic_data_types.ipynb) |
-| **Conditional Statements**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_conditional_statements.ipynb) |
-| **Loops** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_loops.ipynb) |
-| **Advanced Data Types** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_data_structures.ipynb) |
-| **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_functions.ipynb) |
-| **Modules** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_modules.ipynb) |
-| **`datetime` Module** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/datetime/understand_datetime_module.ipynb) |
-| **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_io_text_files.ipynb) |
+| **Running Python** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/uad_sen/blob/main/intro_python/introduction_python.ipynb) |
+| **Data Types**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/uad_sen/blob/main/intro_python/understand_basic_data_types.ipynb) |
+| **Conditional Statements**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/uad_sen/blob/main/intro_python/understand_conditional_statements.ipynb) |
+| **Loops** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/uad_sen/blob/main/intro_python/understand_loops.ipynb) |
+| **Advanced Data Types** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/uad_sen/blob/main/intro_python/understand_data_structures.ipynb) |
+| **Functions** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/uad_sen/blob/main/intro_python/understand_functions.ipynb) |
+| **Modules** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/uad_sen/blob/main/intro_python/understand_modules.ipynb) |
+| **`datetime` Module** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/uad_sen/blob/main/datetime/understand_datetime_module.ipynb) |
+| **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/uad_sen/blob/main/intro_python/understand_io_text_files.ipynb) |
