@@ -1,6 +1,6 @@
 | . | . |
 | - | - |
-| ![uadb_logo](https://uadb.edu.sn/images/img-logo-uadb/nouveau-logo-uadb.png) | ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png) |
+| ![uadb_logo](https://uadb.edu.sn/images/img-logo-uadb/nouveau-logo-uadb.png) | ![ASAQ](https://www.iybssd2022.org/wp-content/uploads/ASAQ.jpg) |
 
 ## Python for Air Quality Data Analysis
 
