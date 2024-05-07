@@ -15,9 +15,6 @@ To take this course, you are expected to:
 - Install on your local machine the Anaconda Python Distribution. It is not required but it is highly recommended.
  We recommend that you install the Anaconda Python distribution by following the instructions at: [Anaconda installation Guide](https://docs.continuum.io/anaconda/install/)
 
-You might find it useful to learn little more about Jupyter notebook: 
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/jupyter_notebook/jupyter_notebook_introduction.ipynb)
-
 
 | Lecture Topic | Interactive Link | 
 |---|---|
