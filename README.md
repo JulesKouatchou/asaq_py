@@ -1,6 +1,6 @@
-| . | . |
-| - | - |
-| ![uadb_logo](https://uadb.edu.sn/images/img-logo-uadb/nouveau-logo-uadb.png) | ![ASAQ](https://www.iybssd2022.org/wp-content/uploads/ASAQ.jpg) |
+| . |
+| - |
+| ![ASAQ](https://www.iybssd2022.org/wp-content/uploads/ASAQ.jpg) |
 
 ## Python for Air Quality Data Analysis
 
