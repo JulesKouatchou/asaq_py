@@ -4,16 +4,14 @@
 
 ## Data Analysis with Pandas, GeoPandas and MovingPandas
 
-This course is designed for participants who want to learn the basic concepts of the Python language and be able to use Python related tools for their work. We cover the following topics: data types, conditional statements, loops, functions, modules, Datetime module, and basic IO with text file.
+This part of the course series is designed for participants who want to learn how to read timeseries data files, manipulate and visualize the data.
 
+We will use the following Python tools:
+- `Seaborn`: for visualization
+- `Pandas`:
+- `GeoPandas`:
+- `MovingPandas`: 
 
-**Prerequisites**: Ideally, ability to program in another language (C, C++, Fortran, Java, Matlab, IDL, etc.). Participants are also expected to be able manipulate a web browser, to open command prompt window or terminal window and edit text files. A gmail account is needed.
-
-To take this course, you are expected to:
-
-- Have a gmail account (needed to have access to Google Colaboratory). Everything will be taught through the Google cloud based Jupyter notebook.
-- Install on your local machine the Anaconda Python Distribution. It is not required but it is highly recommended.
- We recommend that you install the Anaconda Python distribution by following the instructions at: [Anaconda installation Guide](https://docs.continuum.io/anaconda/install/)
 
 
 | Lecture Topic | Interactive Link | 
