@@ -77,3 +77,15 @@ Our overview of indoor and outdoor air pollution.](https://ourworldindata.org/ai
 - [The State of Air Quality and Health Impacts in Africa](https://issuu.com/ihme/docs/soga-africa-report)
 - [Air Pollution Research in African Countries: A Bibliometric Visualization and Analysis Using Dimensions.Ai and Scopus Databases](https://link.springer.com/chapter/10.1007/978-3-031-50871-4_4)
 - [Scarcity of Monitoring Stations across Africa Means Underrepresentation in Air Quality Data](https://www.africa.com/scarcity-of-monitoring-stations-across-africa-means-underrepresentation-in-air-quality-data/)
+
+### Python related projects, tools and traing courses
+
+- [Predictive Modeling of Air Quality using Python](https://www.activestate.com/blog/predictive-modeling-of-air-quality-using-python/), Dante Sblendorio, June 18, 2020.
+- [air-quality-analysis](https://github.com/binh-bk/air-quality-analysis), Jupyter Notebook.
+- [PyAirPollution](https://github.com/peyrone/PyAirPollution/blob/main/PyAirPollutionDataAnalysis.ipynb)
+- [ARSET - Data Analysis Tools for High Resolution Air Quality Satellite Datasets](https://appliedsciences.nasa.gov/get-involved/training/english/arset-data-analysis-tools-high-resolution-air-quality-satellite)
+- [Environmental Insights: Democratizing Access to Ambient Air Pollution Data and Predictive Analytics with an Open-Source Python Package](https://arxiv.org/html/2403.03664v1)
+- [Data Visualization on Air Quality](https://nycdatascience.com/blog/student-works/data-visualization-on-air-quality/)
+- [Air Quality Monitoring and Data Access](https://epic.uchicago.edu/area-of-focus/air-quality-monitoring-and-data-access/), Energy Policy Institute at the University of Chicago (EPIC).
+- [
+NASA HEALTH AND AIR QUALITY APPLIED SCIENCES TEAM](https://haqast.org/data-and-tools/), Connecting NASA Data and Tools with Health and Air Quality Stakeholders.
