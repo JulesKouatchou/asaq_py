@@ -4,7 +4,7 @@
 
  **Overview of Python Tools for Air Quality Data Analysis**  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/asaq_py/blob/main/data_analysis/tutorial_python_tools.ipynb)
 
-<!--
+
 ## Data Analysis with Pandas, GeoPandas and MovingPandas
 
 This part of the course series is designed for participants who want to learn how to read timeseries data files, manipulate and visualize the data.
@@ -25,4 +25,3 @@ We will use the following Python tools:
 | **Use geolocation information with GeoPandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/asaq_py/blob/main/data_analysis/analysis_geopandas.ipynb) |
 | **Time series analysis with MovingPandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/asaq_py/blob/main/data_analysis/analysis_movingpandas.ipynb) |
 
--->
