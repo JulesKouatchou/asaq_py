@@ -20,11 +20,13 @@ We will use the following Python tools:
 
 | Session | Lecture Topic | Interactive Link | 
 |---|---|---|
-| 1 | | **Read the file with Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/asaq_py/blob/main/data_analysis/session_1_read_file.ipynb) |
-| 2 | | **Data conversion with Pandas**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/asaq_py/blob/main/data_analysis/session_2_data_coversion.ipynb) |
-| 3 | | **Visualization with Pandas and Seaborn**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/asaq_py/blob/main/data_analysis/session_3_plot_seaborn.ipynb) |
-| 4 | | **Use geolocation information with GeoPandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/asaq_py/blob/main/data_analysis/session_54_analysis_geopandas.ipynb) |
-| 5 | | **Time series analysis with MovingPandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/asaq_py/blob/main/data_analysis/session_5_analysis_movingpandas.ipynb) |
+| 1 | **Read the file with Pandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/asaq_py/blob/main/data_analysis/session_1_read_file.ipynb) |
+| 2 | **Data conversion with Pandas**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/asaq_py/blob/main/data_analysis/data_cleaning_conversion.ipynb) |
+|   |                                  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/asaq_py/blob/main/data_analysis/session_2_data_coversion.ipynb) |
+| 3 | **Visualization with Pandas and Seaborn**  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/asaq_py/blob/main/data_analysis/session_3_plot_seaborn.ipynb) |
+| 4 | **Use geolocation information with GeoPandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/asaq_py/blob/main/data_analysis/session_54_analysis_geopandas.ipynb) |
+| 5 | **Time series analysis with MovingPandas** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/asaq_py/blob/main/data_analysis/manipulate_CapeTown_data.ipynb) |
+|   |                                            |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/asaq_py/blob/main/data_analysis/session_5_analysis_movingpandas.ipynb) |
 
 
 
